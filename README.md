@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spikedevss
 - 👀 I’m interested in Brawl Stars Servers
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: @spikedevs
 - 😄 Pronouns: Spike - Spike Dev
 - <!---
